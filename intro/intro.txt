@@ -1,40 +1,40 @@
 ===Replace the answers in the (parentheses)!===
 
 My name is:
-(name)
+(Justin Wong)
 
 My preferred email is:
-(email)
+(wong@college.harvard.edu)
 
 My class year is:
-(2021 | 2022 | 2023 | 2024)
+(2022)
 
 I'm (planning on) concentrating in:
-(concentration)
+(Neuroscience and philosophy)
 
 I'm living:
-(on-campus | city, state | city, country)
+(Hong Kong)
 
 My timezone is:
-(EST + X)
+(EST + 8)
 
 My GitHub username is:
-(snickerdoodle_cookie_129)
+(wongjustinyc)
 
 Before Crimson Tech, I've coded:
-(i've never coded | during classes/hackathons | during jobs/internships | something else: ____ )
+(cs50...? and I have used it for small projects here and there)
 
 My favorite food/cuisine is:
-(toothpaste/antarctican)
+(japanese)
 
 My favorite movie is:
-(gone with the wind)
+(im bad with choosing a favourite, but here's something if you force me to choose: https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Things that I enjoy doing over zoom:
-(anything but playing among us)
+(facetime)
 
 Things that I enjoy doing on campus:
-(going to KFT three times a day)
+(it used to be thinking about getting off campus)
 
 Questions or concerns I have about the comp, school, or life in general:
-(42)
+(whats the meaning of life)
