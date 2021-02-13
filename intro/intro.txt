@@ -1,0 +1,40 @@
+===Replace the answers in the (parentheses)!===
+
+My name is:
+(name)
+
+My preferred email is:
+(email)
+
+My class year is:
+(2021 | 2022 | 2023 | 2024)
+
+I'm (planning on) concentrating in:
+(concentration)
+
+I'm living:
+(on-campus | city, state | city, country)
+
+My timezone is:
+(EST + X)
+
+My GitHub username is:
+(snickerdoodle_cookie_129)
+
+Before Crimson Tech, I've coded:
+(i've never coded | during classes/hackathons | during jobs/internships | something else: ____ )
+
+My favorite food/cuisine is:
+(toothpaste/antarctican)
+
+My favorite movie is:
+(gone with the wind)
+
+Things that I enjoy doing over zoom:
+(anything but playing among us)
+
+Things that I enjoy doing on campus:
+(going to KFT three times a day)
+
+Questions or concerns I have about the comp, school, or life in general:
+(42)
